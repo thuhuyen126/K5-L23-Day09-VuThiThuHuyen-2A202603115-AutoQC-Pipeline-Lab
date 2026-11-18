@@ -1,3 +1,5 @@
+# Day 09 Lab — Vũ Thị Thu Huyền: 2A202603115 - Vũ Thị Thu Huyền
+
 <p align="center">
   <img src="docs/assets/hero.png" alt="Day 09 Lab: pipeline kiểm nhãn tự động" width="100%">
 </p>
